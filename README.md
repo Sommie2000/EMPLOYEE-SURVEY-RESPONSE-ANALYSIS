@@ -41,6 +41,7 @@ COLUMNS:
 
 
 ##### DATASET SAMPLE PREVIEW
+
 |Response ID|	Status|	Department|	Director|	Manager|	Supervisor|	Staff| Question| Response| Response Text|
 |-----------|-------|-----------|---------|---------|-----------|------|---------|---------|--------------|
 |1|	Complete|	Human Resources|	0|	1|	0|	0|	1. I know what is expected of me at work|	4|	Strongly Agree|
@@ -51,33 +52,42 @@ COLUMNS:
 |6|	Complete|	Prosecuting Attorney's Office|	0|	0|	0|	0|	1. I know what is expected of me at work|	4|	Strongly Agree|
 
 ### TOOLS 
--	Microsoft Power BI
+-	Microsoft Excel
 -	Power Query
--	DAX
--	Data Modeling
 -	Data Visualization
 
 ### KEY SKILLS APPLIED
-- Data Gathering, Cleaning and Transformation
- > Data was imported into Power BI then it was transformed by power query where cleaning, exploration and transformation were carried out.
-- Data Modelling
+-	Data Cleaning and Transformation
+  > I transform the data in power query, then I removed duplicate values
+  > I removed empty values and I also replace a question “This year, I have the opportunities to learn & grow” to “This year, I have the opportunities to learn and grow” 
+-	Survey Analytics
+-	KPI Design
+-	Data Storytelling
+-	Business Intelligence
+-	Excel Visualization
 
-<img width="970" height="537" alt="Dano model table" src="https://github.com/user-attachments/assets/5f57d1fd-eb91-43e8-ba56-d05dcc0cca40" />
-
-- New Measures and DAX Expressions 
-> Key performance indicators (KPIs) were calculated using New Measures and DAX
-- Data Visualization	Slicers were added to allow leadership to filter into specific customer segments when needed.
 
 ### VISUALIZATION
+
 KPI (Key Performance Indicator Metrics)
-|KPI| VALUES|
-|--------------------------|--------|
-|Total Passengers| 129,880|
-|Average Age|	39 Years|
-|Satisfaction Rate|	43.4%|
-|Dissatisfaction Rate|	56.6%|
-|Returning Passenger Satisfaction Rate|	47.8%|
-|First-Time Passenger Satisfaction  Rate|	24.0%|
+1. Total Responses
+Measures the total number of survey responses received which is 14,575
+2. Positive Responses
+Measures the number of respondents who selected:
+-	Strongly Agree: 5,229
+-	Agree : 5731
+Total Positive Responses: 10960
+3. Negative Responses
+Measures the number of respondents who selected:
+-	Disagree: 2160
+-	Strongly Disagree : 1061
+-	Not Applicable : 394 
+Total Negative Responses : 3615
+
+4. Employee Satisfaction Rate (54%)
+Measures the percentage of positive responses out of total responses.
+Formula used : Positive Responses / Total Responses * 100  = 54%
+
 
 
 ##### DASHBOARD
