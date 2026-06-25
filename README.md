@@ -58,7 +58,7 @@ COLUMNS:
 
 ### KEY SKILLS APPLIED
 -	Data Cleaning and Transformation
-  > I transform the data in power query, then I removed duplicate values, I removed empty values and I also replace a question “This year, I have the opportunities to learn & grow” to “This year, I have the opportunities to learn and grow” 
+  > I transform the data in power query, then I removed duplicate and empty values and I also replace a question “This year, I have the opportunities to learn & grow” to “This year, I have the opportunities to learn and grow” 
 -	Survey Analytics
 -	KPI Design
 -	Data Storytelling
@@ -96,47 +96,60 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 
 
 ### KEY INSIGHT
-1. Satisfaction by Travel Type
-> Findings
--	Business travelers show significantly higher satisfaction levels.
--	Personal travelers exhibit higher dissatisfaction levels.
-> Implication
-Business travelers appear to receive greater value from the airline experience compared to personal travelers.
+1.  Agree and Disagree response by Questions 
+The question respondents agree  with the most is -  (My department is inclusive and demonstrate support of a diverse workforce) with total number of  663 
+The question respondents disagree with the most is - I  have a best friend at work, with total number of  469 
 
-2. Satisfaction by Class
-> Findings
--	Business Class passengers have the highest satisfaction levels.
--	Economy passengers show the highest dissatisfaction levels.
--	Economy Plus performs slightly better than Economy but remains below Business Class.
-> Implication
-Service quality differences between travel classes strongly influence customer satisfaction.
+2. Department Response Trend  Analysis
+Top 5 Response Trend by Department 
+Yes, there are noticeable patterns across departments.
+The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
+The Sheriff’s Department and Human Services also contributed a significant number of responses and generally displayed more positive responses (Agree and Strongly Agree) than negative responses, indicating relatively higher employee satisfaction.
+Across most departments, employees tended to agree with statements related to:
+●	Understanding what is expected of them at work.
+●	Understanding the organization’s mission and purpose.
+●	Having supportive workplace relationships.
+However, a recurring trend across departments was dissatisfaction with:
+●	Career advancement opportunities.
+●	Recognition and rewards.
+●	Overall job satisfaction.
+This suggests that while employees generally understand their roles and work well with colleagues, there are organization-wide concerns regarding employee development, recognition, and long-term career growth.
 
-3. Satisfaction by Check-In Service
-> Findings
-- Satisfied passengers rated check-in services higher than dissatisfied passengers.
-> Implication
-- A smooth and efficient check-in process contributes positively to customer experience.
+Top 5 Departments include:
+-	Finance and Performance Management 
+-	Human Services 
+-	Planning and Public Works ( has the highest across all response types)
+-	Prosecuting Attomey’s Office 
+-	Sheriff’s Department
 
-4. Satisfaction by In-Flight Service
-> Findings
-- Higher in-flight service ratings correspond with increased satisfaction levels.
-> Implication
-- Service quality during flights plays a critical role in shaping customer perception.
+3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;  (A) Improve Career Development Opportunities
+-	Provide training programs, mentorship, and clear promotion pathways to help employees grow professionally. 
+(B) Enhance Employee Recognition
+-	Introduce reward and recognition programs to acknowledge employees’ hard work and achievements.
+(C ) Review Compensation and Benefits
+-	Evaluate salaries and benefits to ensure they are competitive and aligned with employee expectations.
+(D) Strengthen Leadership and Communication
+-	Train managers to communicate effectively, provide regular feedback, and support employees’ needs.
+(E) Increase Employee Engagement
+-	Conduct regular surveys, feedback sessions, and team-building activities to ensure employees feel heard and valued.
+4.  Top 5 Department  by Response
+ Shows top 5 departments with the highest number of survey questions response  that Shows positive, neutral, and negative responses for each department.
+The department with highest response is Planning and Public works with 48% 
+-	Finance and Performance Management (11%)
+-	Human Services (10%)
+-	Planning and Public Works (48%)
+-	Prosecuting Attomey’s Office ( 12%)
+-	Sheriff’s Department ( 19%)
 
-5. Satisfaction by Seat Comfort
-> Findings
-- Passenger satisfaction increases significantly as seat comfort ratings improve.
-- Low seat comfort ratings are associated with higher dissatisfaction.
-> Implication
-- Seat comfort is a major driver of customer satisfaction.
-
-6. Satisfaction by Baggage Handling
-> Findings
-- Passengers who rated baggage handling highly were more likely to be satisfied.
-- Lower baggage handling ratings are strongly associated with dissatisfaction.
-> Implication
-- Efficient baggage management directly impacts customer experience.
-
+5,  Response Type Distribution
+Displays the proportion of:
+-	Strongly Agree ( 36%)
+-	Agree (39%)
+-	Not Applicable (3%)
+-	Disagree (15%)
+-	Strongly Disagree (7%)
+Insight
+Approximately 75% of respondents provided positive feedback (Agree or Strongly Agree), indicating generally favorable employee sentiment despite concerns in specific areas.
 
 ### RECOMMENDATION
 1. Improve Economy Class Experience
