@@ -58,8 +58,7 @@ COLUMNS:
 
 ### KEY SKILLS APPLIED
 -	Data Cleaning and Transformation
-  > I transform the data in power query, then I removed duplicate values
-  > I removed empty values and I also replace a question “This year, I have the opportunities to learn & grow” to “This year, I have the opportunities to learn and grow” 
+  > I transform the data in power query, then I removed duplicate values, I removed empty values and I also replace a question “This year, I have the opportunities to learn & grow” to “This year, I have the opportunities to learn and grow” 
 -	Survey Analytics
 -	KPI Design
 -	Data Storytelling
