@@ -97,10 +97,11 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 
 ### KEY INSIGHT
 1.  Agree and Disagree response by Questions 
-The question respondents agree  with the most is -  (My department is inclusive and demonstrate support of a diverse workforce) with total number of  663 
+The question respondents agree  with the most is:
+- My department is inclusive and demonstrate support of a diverse workforce with total number of  663 
 The question respondents disagree with the most is - I  have a best friend at work, with total number of  469 
 
-2. Department Response Trend  Analysis
+3. Department Response Trend  Analysis
 Top 5 Response Trend by Department 
 Yes, there are noticeable patterns across departments.
 The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
