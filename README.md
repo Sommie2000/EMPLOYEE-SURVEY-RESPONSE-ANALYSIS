@@ -98,8 +98,9 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 ### KEY INSIGHT
 1.  Agree and Disagree response by Questions 
 The question respondents agree  with the most is:
-- My department is inclusive and demonstrate support of a diverse workforce with total number of  663 
-The question respondents disagree with the most is - I  have a best friend at work, with total number of  469 
+- My department is inclusive and demonstrate support of a diverse workforce with total number of 663 
+The question respondents disagree with the most is:
+- I  have a best friend at work, with total number of  469 
 
 3. Department Response Trend  Analysis
 Top 5 Response Trend by Department 
