@@ -19,8 +19,8 @@ The primary objectives of this analysis are:
 * [Key Skills Applied](#key-skills-applied)
 * [Visualization](#visualization)
 * [Key Insight](#key-insight)
-* [Recommendation](#recommendation)
 * [Interactive Analysis](#interactive-analysis)
+* [Recommendation](#recommendation)
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
 
