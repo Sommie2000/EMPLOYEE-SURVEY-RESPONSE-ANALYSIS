@@ -102,6 +102,7 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 > The question respondents disagree with the most is:
 - I  have a best friend at work, with total number of  469 
 
+
 2. Department Response Trend Analysis (Top 5 Response Trend by Department) 
 > Yes, there are noticeable patterns across departments.
 - The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
@@ -111,9 +112,9 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 - Understanding the organization’s mission and purpose.
 - Having supportive workplace relationships.
 > However, a recurring trend across departments was dissatisfaction with:
-●	Career advancement opportunities.
-●	Recognition and rewards.
-●	Overall job satisfaction.
+- Career advancement opportunities.
+- Recognition and rewards.
+- Overall job satisfaction.
 > This suggests that while employees generally understand their roles and work well with colleagues, there are organization-wide concerns regarding employee development, recognition, and long-term career growth.
 
 Top 5 Departments include:
@@ -122,6 +123,7 @@ Top 5 Departments include:
 -	Planning and Public Works ( has the highest across all response types)
 -	Prosecuting Attomey’s Office 
 -	Sheriff’s Department
+
 
 3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;
  (A) Improve Career Development Opportunities
@@ -134,6 +136,8 @@ Top 5 Departments include:
 -	Train managers to communicate effectively, provide regular feedback, and support employees’ needs.
 (E) Increase Employee Engagement
 -	Conduct regular surveys, feedback sessions, and team-building activities to ensure employees feel heard and valued.
+
+  
 4.  Top 5 Department  by Response
  Shows top 5 departments with the highest number of survey questions response  that Shows positive, neutral, and negative responses for each department.
 The department with highest response is Planning and Public works with 48% 
@@ -143,7 +147,7 @@ The department with highest response is Planning and Public works with 48%
 -	Prosecuting Attomey’s Office ( 12%)
 -	Sheriff’s Department ( 19%)
 
-5,  Response Type Distribution
+5. Response Type Distribution
 Displays the proportion of:
 -	Strongly Agree ( 36%)
 -	Agree (39%)
