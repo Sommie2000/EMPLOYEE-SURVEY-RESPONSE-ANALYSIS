@@ -169,7 +169,7 @@ Approximately 75% of respondents provided positive feedback (Agree or Strongly A
 ### INTERACTIVE ANALYSIS
 The dashboard includes two interactive slicers that allow users to dynamically filter and explore survey responses . 
 The interactive slicers provide flexibility for users to drill down into specific departments and response text, making it easier to identify trends, compare employee perceptions, and support data-driven decision-making.
-1. Response Type Slicer
+1. Response Text Slicer
 This slicer enables users to filter survey responses based on response categories:
 -	Agree
 -	Strongly Agree
