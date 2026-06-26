@@ -104,7 +104,7 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 
 2. Department Response Trend  Analysis
 Top 5 Response Trend by Department 
-Yes, there are noticeable patterns across departments.
+> Yes, there are noticeable patterns across departments.
 The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
 The Sheriff’s Department and Human Services also contributed a significant number of responses and generally displayed more positive responses (Agree and Strongly Agree) than negative responses, indicating relatively higher employee satisfaction.
 Across most departments, employees tended to agree with statements related to:
@@ -124,7 +124,8 @@ Top 5 Departments include:
 -	Prosecuting Attomey’s Office 
 -	Sheriff’s Department
 
-3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;  (A) Improve Career Development Opportunities
+3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;
+ (A) Improve Career Development Opportunities
 -	Provide training programs, mentorship, and clear promotion pathways to help employees grow professionally. 
 (B) Enhance Employee Recognition
 -	Introduce reward and recognition programs to acknowledge employees’ hard work and achievements.
