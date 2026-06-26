@@ -97,25 +97,24 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 
 ### KEY INSIGHT
 1.  Agree and Disagree response by Questions 
-- The question respondents agree  with the most is:
-> My department is inclusive and demonstrate support of a diverse workforce with total number of 663 
-- The question respondents disagree with the most is:
-> I  have a best friend at work, with total number of  469 
+> The question respondents agree  with the most is:
+- My department is inclusive and demonstrate support of a diverse workforce with total number of 663 
+> The question respondents disagree with the most is:
+- I  have a best friend at work, with total number of  469 
 
-2. Department Response Trend  Analysis
-Top 5 Response Trend by Department 
+2. Department Response Trend Analysis (Top 5 Response Trend by Department) 
 > Yes, there are noticeable patterns across departments.
-The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
-The Sheriff’s Department and Human Services also contributed a significant number of responses and generally displayed more positive responses (Agree and Strongly Agree) than negative responses, indicating relatively higher employee satisfaction.
-Across most departments, employees tended to agree with statements related to:
-●	Understanding what is expected of them at work.
-●	Understanding the organization’s mission and purpose.
-●	Having supportive workplace relationships.
-However, a recurring trend across departments was dissatisfaction with:
+- The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
+- The Sheriff’s Department and Human Services also contributed a significant number of responses and generally displayed more positive responses (Agree and Strongly Agree) than negative responses, indicating relatively higher employee satisfaction.
+> Across most departments, employees agree with statements related to:
+- Understanding what is expected of them at work.
+- Understanding the organization’s mission and purpose.
+- Having supportive workplace relationships.
+> However, a recurring trend across departments was dissatisfaction with:
 ●	Career advancement opportunities.
 ●	Recognition and rewards.
 ●	Overall job satisfaction.
-This suggests that while employees generally understand their roles and work well with colleagues, there are organization-wide concerns regarding employee development, recognition, and long-term career growth.
+> This suggests that while employees generally understand their roles and work well with colleagues, there are organization-wide concerns regarding employee development, recognition, and long-term career growth.
 
 Top 5 Departments include:
 -	Finance and Performance Management 
