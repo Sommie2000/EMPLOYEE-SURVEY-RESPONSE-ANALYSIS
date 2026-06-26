@@ -130,7 +130,7 @@ Top 5 Departments include:
 -	Finance and Performance Management 
 -	Human Services 
 -	Planning and Public Works ( has the highest across all response types)
--	Prosecuting Attomey’s Office 
+-	Prosecuting Attorney's Office 
 -	Sheriff’s Department
 
 
@@ -157,7 +157,7 @@ Top 5 Departments include:
 -	Finance and Performance Management (11%)
 -	Human Services (10%)
 -	Planning and Public Works (48%)
--	Prosecuting Attomey’s Office ( 12%)
+-	Prosecuting Attorney's Office ( 12%)
 -	Sheriff’s Department ( 19%)
 
 
