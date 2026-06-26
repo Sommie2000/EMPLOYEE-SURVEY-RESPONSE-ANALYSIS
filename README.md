@@ -52,6 +52,12 @@ COLUMNS:
 |5|	Complete|	Communications Office|	0|	0|	0|	0|	1. I know what is expected of me at work|	0|	Not Applicable|
 |6|	Complete|	Prosecuting Attorney's Office|	0|	0|	0|	0|	1. I know what is expected of me at work|	4|	Strongly Agree|
 
+
+[Employee Survey Dataset.xlsx](https://github.com/user-attachments/files/29397006/Employee.Survey.Dataset.xlsx)
+
+
+
+
 ### TOOLS 
 -	Microsoft Excel
 -	Power Query
