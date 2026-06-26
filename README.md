@@ -103,6 +103,8 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 - I  have a best friend at work, with total number of  469 
 
 
+
+
 2. Department Response Trend Analysis (Top 5 Response Trend by Department) 
 > Yes, there are noticeable patterns across departments.
 - The Planning and Public Works Department recorded the highest number of survey responses (48%), indicating the highest level of participation among all departments. This department also showed the highest levels of both positive and negative responses, suggesting that employees have strong opinions about their workplace experiences.
@@ -125,6 +127,8 @@ Top 5 Departments include:
 -	Sheriff’s Department
 
 
+
+
 3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;
  (A) Improve Career Development Opportunities
 -	Provide training programs, mentorship, and clear promotion pathways to help employees grow professionally. 
@@ -137,6 +141,8 @@ Top 5 Departments include:
 (E) Increase Employee Engagement
 -	Conduct regular surveys, feedback sessions, and team-building activities to ensure employees feel heard and valued.
 
+
+
   
 4.  Top 5 Department  by Response
  Shows top 5 departments with the highest number of survey questions response  that Shows positive, neutral, and negative responses for each department.
@@ -146,6 +152,8 @@ The department with highest response is Planning and Public works with 48%
 -	Planning and Public Works (48%)
 -	Prosecuting Attomey’s Office ( 12%)
 -	Sheriff’s Department ( 19%)
+
+
 
 5. Response Type Distribution
 Displays the proportion of:
@@ -163,18 +171,26 @@ Approximately 75% of respondents provided positive feedback (Agree or Strongly A
 - Improve seating comfort.
 - Enhance in-flight services.
 - Increase customer support responsiveness.
+
+  
 2. Enhance Seat Comfort
 - Upgrade seating quality.
 - Increase legroom where possible.
 - Improve cabin ergonomics.
+
+  
 3. Optimize Baggage Handling
 - Reduce lost luggage and baggage delays.
 - Improve baggage tracking systems.
 - Strengthen baggage handling procedures.
+
+  
 4. Improve Check-In Efficiency
 - Expand digital check-in options.
 - Reduce waiting times.
 - Improve airport support services.
+
+  
 5. Focus on First-Time Passengers
 > The satisfaction rate among first-time passengers is significantly lower than returning passengers.
  > Dano Airlines should:
@@ -182,7 +198,9 @@ Approximately 75% of respondents provided positive feedback (Agree or Strongly A
 - Improve customer communication by sending flight reminders, boarding instructions and airport navigation tips through emails or sms
 - Improve ground staff support, by assigning customer service representatives to assist first-time travelers, elderly passengers and passengers requiring guidance
 - Follow Up After Flights; collect feedback from first-time passengers and address recurring complaints quickly. This creates a memorable first-flight experience.
-6. Improve personal travelers and improve  family friendly services 
+
+  
+6. Improve personal travelers and improve  family friendly services
   > Provide:
 - Family boarding assistance.
 - Easier baggage support.
