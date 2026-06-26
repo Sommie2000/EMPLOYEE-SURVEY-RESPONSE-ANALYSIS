@@ -130,7 +130,7 @@ Top 5 Departments include:
 
 
 3. As an Employer, the steps I  would take to improve employee satisfaction based  on the survey results. I will take the following steps;
-- (A) Improve Career Development Opportunities
+(A) Improve Career Development Opportunities
 -	Provide training programs, mentorship, and clear promotion pathways to help employees grow professionally. 
 - (B) Enhance Employee Recognition
 -	Introduce reward and recognition programs to acknowledge employees’ hard work and achievements.
