@@ -145,8 +145,8 @@ Top 5 Departments include:
 
   
 4.  Top 5 Department  by Response
- Shows top 5 departments with the highest number of survey questions response  that Shows positive, neutral, and negative responses for each department.
-The department with highest response is Planning and Public works with 48% 
+ > Shows top 5 departments with the highest number of survey questions response  that Shows positive, neutral, and negative responses for each department.
+- The department with highest response is Planning and Public works with 48% 
 -	Finance and Performance Management (11%)
 -	Human Services (10%)
 -	Planning and Public Works (48%)
@@ -168,7 +168,7 @@ Approximately 75% of respondents provided positive feedback (Agree or Strongly A
 
 ### INTERACTIVE ANALYSIS
 The dashboard includes two interactive slicers that allow users to dynamically filter and explore survey responses . 
-The interactive slicers provide flexibility for users to drill down into specific departments and response types, making it easier to identify trends, compare employee perceptions, and support data-driven decision-making.
+The interactive slicers provide flexibility for users to drill down into specific departments and response text, making it easier to identify trends, compare employee perceptions, and support data-driven decision-making.
 1. Response Type Slicer
 This slicer enables users to filter survey responses based on response categories:
 -	Agree
@@ -207,7 +207,7 @@ Recommendations
 -	Focus interventions on departments with higher negative response rates
 -	Develop department-specific engagement strategies.
 
-Conclusion
+### CONCLUSION
 The Employee Survey Response Analysis reveals that employees generally have a positive perception of their work environment, with strong agreement regarding role clarity and organizational purpose. However, dissatisfaction surrounding career growth, recognition, and leadership support presents opportunities for improvement.
 By addressing these concerns, management can improve employee engagement, increase retention rates, and foster a more productive workplace culture.
 
