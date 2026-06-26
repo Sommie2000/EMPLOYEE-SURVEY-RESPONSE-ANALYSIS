@@ -20,6 +20,7 @@ The primary objectives of this analysis are:
 * [Visualization](#visualization)
 * [Key Insight](#key-insight)
 * [Recommendation](#recommendation)
+* [Interactive Analysis](#interactive-analysis)
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
 
@@ -208,6 +209,9 @@ Purpose: Enables comparison of employee satisfaction levels and response pattern
 5. Monitor Departmental Satisfaction
 -	Focus interventions on departments with higher negative response rates
 -	Develop department-specific engagement strategies.
+
+
+### DATA SOURCE
 
 ### CONCLUSION
 The Employee Survey Response Analysis reveals that employees generally have a positive perception of their work environment, with strong agreement regarding role clarity and organizational purpose. However, dissatisfaction surrounding career growth, recognition, and leadership support presents opportunities for improvement.
