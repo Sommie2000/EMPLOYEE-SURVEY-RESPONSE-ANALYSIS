@@ -91,7 +91,7 @@ Formula used : Positive Responses / Total Responses * 100  = 54%
 
 ##### DASHBOARD
 
-<img width="1120" height="542" alt="Dano 2" src="https://github.com/user-attachments/assets/e7fc9f47-f858-48f8-ac46-68da338286be" />
+<img width="1280" height="614" alt="MAIN EMPLOYEE DASHBOARD" src="https://github.com/user-attachments/assets/c6ae607d-3f6b-4d9e-8fd9-dae9285877a1" />
 
 
 
@@ -186,7 +186,9 @@ This slicer allows users to filter the dashboard by specific departments, includ
 -	Sheriff’s Department
 -	Other departments in the dataset
 Purpose: Enables comparison of employee satisfaction levels and response patterns across departments.
-Recommendations
+
+
+### RECOMMENDATION
 1. Improve Career Growth Opportunities
 -	Create transparent promotion pathways.
 -	Offer professional programs.
