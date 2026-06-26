@@ -165,58 +165,49 @@ Displays the proportion of:
 Insight
 Approximately 75% of respondents provided positive feedback (Agree or Strongly Agree), indicating generally favorable employee sentiment despite concerns in specific areas.
 
-### RECOMMENDATION
-1. Improve Economy Class Experience
-> Since Economy passengers exhibit the highest dissatisfaction levels, Dano Airlines should:
-- Improve seating comfort.
-- Enhance in-flight services.
-- Increase customer support responsiveness.
 
-  
-2. Enhance Seat Comfort
-- Upgrade seating quality.
-- Increase legroom where possible.
-- Improve cabin ergonomics.
+### INTERACTIVE ANALYSIS
+The dashboard includes two interactive slicers that allow users to dynamically filter and explore survey responses . 
+The interactive slicers provide flexibility for users to drill down into specific departments and response types, making it easier to identify trends, compare employee perceptions, and support data-driven decision-making.
+1. Response Type Slicer
+This slicer enables users to filter survey responses based on response categories:
+-	Agree
+-	Strongly Agree
+-	Disagree
+-	Strongly Disagree
+-	Not Applicable
+Purpose: Helps stakeholders analyze employee sentiment and identify areas of satisfaction or dissatisfaction across the organization.
+2. Department Slicer
+This slicer allows users to filter the dashboard by specific departments, including:
+-	Finance and Performance Management
+-	Human Service
+-	Planning and Public Works
+-	Prosecuting Attorney’s Office
+-	Sheriff’s Department
+-	Other departments in the dataset
+Purpose: Enables comparison of employee satisfaction levels and response patterns across departments.
+Recommendations
+1. Improve Career Growth Opportunities
+-	Create transparent promotion pathways.
+-	Offer professional programs.
+-	Introduce mentorship initiatives.
+2. Strengthen Employee Recognition
+-	Implement employee recognition programs.
+-	Celebrate outstanding performance regularly
+-	Introduce performance-based incentives.
+3. Enhance Leadership Effectiveness
+-	Provide leadership and communication training
+-	Encourage frequent manager-employee feedback sessions.
+-	Improve supervisor accountability.
+4. Increase Employee Engagement
+-	Conduct quarterly employee surveys.
+-	Organize team-building activities.
+-	Create channels for anonymous employee feedback.
+5. Monitor Departmental Satisfaction
+-	Focus interventions on departments with higher negative response rates
+-	Develop department-specific engagement strategies.
 
-  
-3. Optimize Baggage Handling
-- Reduce lost luggage and baggage delays.
-- Improve baggage tracking systems.
-- Strengthen baggage handling procedures.
-
-  
-4. Improve Check-In Efficiency
-- Expand digital check-in options.
-- Reduce waiting times.
-- Improve airport support services.
-
-  
-5. Focus on First-Time Passengers
-> The satisfaction rate among first-time passengers is significantly lower than returning passengers.
- > Dano Airlines should:
-- Provide first time experience programs before departure like welcome mails, travel guides, check in instructions, baggage information
-- Improve customer communication by sending flight reminders, boarding instructions and airport navigation tips through emails or sms
-- Improve ground staff support, by assigning customer service representatives to assist first-time travelers, elderly passengers and passengers requiring guidance
-- Follow Up After Flights; collect feedback from first-time passengers and address recurring complaints quickly. This creates a memorable first-flight experience.
-
-  
-6. Improve personal travelers and improve  family friendly services
-  > Provide:
-- Family boarding assistance.
-- Easier baggage support.
-- Child-friendly services
-- Increase value perception offers like promotional fares, loyalty reward and discount for repeated leisure travelers.
-- Dedicated family check-in counters
-- Provide children travel kit like coloring books, child friendly snack and entertainment options
-
- 
-### DATA SOURCE
-[Airline data.xlsx](https://github.com/user-attachments/files/29183132/Airline.data.xlsx)
-
-
-
-
-### CONCLUSION
-The analysis shows that Dano Airlines currently has a customer satisfaction rate of 43.4% and dissatisfaction rate of 56.6% indicating substantial opportunities for improvement. By focusing attention on dissatisfied passengers, especially the first time passengers, economic class and the personal travel type passengers, there should be strategic improvements in seat comfort, baggage handling, check-in efficiency, digital services  and the overall service experience. These initiatives will significantly improve customer satisfaction, customer retention, and brand loyalty.
-
+Conclusion
+The Employee Survey Response Analysis reveals that employees generally have a positive perception of their work environment, with strong agreement regarding role clarity and organizational purpose. However, dissatisfaction surrounding career growth, recognition, and leadership support presents opportunities for improvement.
+By addressing these concerns, management can improve employee engagement, increase retention rates, and foster a more productive workplace culture.
 
