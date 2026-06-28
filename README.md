@@ -1,5 +1,8 @@
 # EMPLOYEE-SURVEY-RESPONSE-ANALYSIS
 
+
+<img width="646" height="430" alt="Employee image" src="https://github.com/user-attachments/assets/7716dc98-5850-4814-9bf3-ce20b4aa0f87" />
+
 ### PROJECT OVERVIEW
 This project analyzes employee satisfaction survey data to identify key factors influencing employee engagement, satisfaction, and workplace experience. The analysis focuses on employee responses conducted by Pierce County WA and completed voluntarily by government employees across different departments and roles to uncover trends, strengths, and areas requiring improvement.
 
